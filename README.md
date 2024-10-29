@@ -21,9 +21,9 @@ Sales Data Visualization: Visualizing sales data to track performance metrics.
 Exploratory Data Analysis (EDA): Analyzing datasets to discover patterns and insights.
 More projects to come!
 
-📫 Connect with Me
+## 📫 Connect with Me
 LinkedIn: linkedin.com/in/shubvyas
-Email: shubvyas@example.com
+Email: shubham.vyas.9660@gmail.com
 
 <!--
 **shubvyas/shubvyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
