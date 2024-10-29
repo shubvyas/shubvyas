@@ -22,4 +22,5 @@ More projects to come!
 
 ## 📫 Connect with Me
 LinkedIn: linkedin.com/in/shubvyas  
+GitHub: https://www.linkedin.com/in/shub-vyas/  
 Email: shubham.vyas.0103@gmail.com
