@@ -1,6 +1,9 @@
-# Hi there! 👋 I'm Shubham Vyas
+# Hi there! 👋 I'm Shubham Vyas 
 📊 Aspiring Data Analyst | Passionate about Data-Driven Solutions
-Welcome to my GitHub profile! I'm a fresh graduate excited to dive into the world of data analytics. I’m currently building my skills in data visualization, statistical analysis, and Python programming to uncover actionable insights and drive meaningful outcomes.
+Welcome to my GitHub profile! I'm a fresh graduate excited to dive into the world of data analytics. I’m currently building my skills in data visualization, statistical analysis, and Python programming to uncover actionable insights and drive meaningful outcomes.  
+[Click here to my Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66e1af9cf930ea373f5fe7b9)  
+  
+
 
 ## 🔍 About Me
 🌱 I’m learning data analytics with a focus on deriving insights from complex datasets.  
