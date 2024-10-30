@@ -8,16 +8,16 @@ Welcome to my GitHub profile! I'm a fresh graduate excited to dive into the worl
 🛠️ Interested in exploring data wrangling, visualization, and predictive analysis.  
 
 ## 🧰 Skills
-"*" Programming Languages: Python, SQL  
-"*" Data Visualization: Matplotlib, Seaborn  
-"*" Data Manipulation: Pandas, NumPy  
-"*" Tools: Excel, Google Sheets  
+8 Programming Languages: Python, SQL  
+* Data Visualization: Matplotlib, Seaborn  
+* Data Manipulation: Pandas, NumPy  
+* Tools: Excel, Google Sheets  
 
 ## 📂 Projects
 Here are a few projects I’m working on:  
 
-HR Analytics: Analyzing employee data to understand factors affecting performance, retention, and engagement.  
-Shark Tank Analysis: Exploring investment trends and patterns in Shark Tank deals to understand investor preferences and market dynamics.  
+* HR Analytics: Analyzing employee data to understand factors affecting performance, retention, and engagement.  
+* Shark Tank Analysis: Exploring investment trends and patterns in Shark Tank deals to understand investor preferences and market dynamics.  
 More projects to come!
 
 ## 📫 Connect with Me
