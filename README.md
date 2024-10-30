@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a fresh graduate excited to dive into the worl
 Here are a few projects I’m working on:  
 
 * HR Analytics: Analyzing employee data to understand factors affecting performance, retention, and engagement.
-  [View Deploy](https://www.linkedin.com/in/shub-vyas/)  
+  [View Deploy](https://sharktank-ymasb.streamlit.app/)  
 * Shark Tank Analysis: Exploring investment trends and patterns in Shark Tank deals to understand investor preferences and market dynamics.  
 More projects to come!
 
