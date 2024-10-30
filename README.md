@@ -19,7 +19,7 @@ Here are a few projects I’m working on:
 * HR Analytics: Analyzing employee data to understand factors affecting performance, retention, and engagement.  
   [View Deploy](https://sharktank-ymasb.streamlit.app/)  
 * Shark Tank Analysis: Exploring investment trends and patterns in Shark Tank deals to understand investor preferences and market dynamics.
-  [View Project](https://drive.google.com/file/d/1Xzx7g_G4KyE-Efa8-VLXVHH5MdLAyCPX/view) 
+  [View Project](https://drive.google.com/file/d/1Xzx7g_G4KyE-Efa8-VLXVHH5MdLAyCPX/view)  
 More projects to come!
 
 ## 📫 Connect with Me
