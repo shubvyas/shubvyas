@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a fresh graduate excited to dive into the worl
 🛠️ Interested in exploring data wrangling, visualization, and predictive analysis.  
 
 ## 🧰 Skills
-8 Programming Languages: Python, SQL  
+* Programming Languages: Python, SQL  
 * Data Visualization: Matplotlib, Seaborn  
 * Data Manipulation: Pandas, NumPy  
 * Tools: Excel, Google Sheets  
