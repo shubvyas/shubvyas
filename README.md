@@ -21,5 +21,5 @@ Here are a few projects I’m working on:
 More projects to come!
 
 ## 📫 Connect with Me
-LinkedIn: linkedin.com/in/shubvyas  
+LinkedIn: @shubvyas  
 Email: shubham.vyas.0103@gmail.com
